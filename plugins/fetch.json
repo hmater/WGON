@@ -1,0 +1,20 @@
+{
+    "de.appplant.cordova.plugin.local-notification": {
+        "source": {
+            "type": "local",
+            "path": "/Users/sebastian/Documents/github/cordova-plugin-local-notifications"
+        }
+    },
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
+    },
+    "de.appplant.cordova.plugin.email-composer": {
+        "source": {
+            "type": "local",
+            "path": "../cordova-plugin-email-composer"
+        }
+    }
+}
